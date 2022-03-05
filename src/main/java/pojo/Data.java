@@ -1,7 +1,8 @@
 package pojo;
 
+import lombok.NoArgsConstructor;
 import lombok.NonNull;
-
+@NoArgsConstructor
 @lombok.Data
 public class Data {
     @NonNull private String name;

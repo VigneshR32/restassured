@@ -10,5 +10,5 @@ public class JsonBody {
 
     @NonNull private String name;
     @NonNull private String salary;
-    @NonNull private int age;
+    @NonNull private String age;
 }
