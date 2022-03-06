@@ -2,7 +2,7 @@ package jsonbuilder;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.vicky.apiutills.PostHandler;
+import com.vicky.methodhandlers.PostHandler;
 import io.restassured.response.ResponseBody;
 import pojo.JsonBody;
 import pojo.JsonResultBody;

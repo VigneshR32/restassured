@@ -1,4 +1,4 @@
-package com.vicky.apiutills;
+package com.vicky.methodhandlers;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
